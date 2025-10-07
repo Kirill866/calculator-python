@@ -8,4 +8,4 @@
 1. Установите Python (версия 3.8 или выше)
 2. Скачайте проект или склонируйте репозиторий:
    ```bash
-   git clone https://github.com/Kirill866/calculator-python
+   git https://github.com/Kirill866/calculator-python
